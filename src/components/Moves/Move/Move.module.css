@@ -1,0 +1,17 @@
+div p{
+    cursor: pointer;
+}
+.rock {
+    border: 2px solid black;
+    background-color: #61dafb;
+}
+
+.paper {
+    border: 2px solid black;
+    background-color: #ffffff;
+}
+
+.scissor {
+    border: 2px solid black;
+    background-color: #ef5efb;
+}

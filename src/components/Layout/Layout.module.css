@@ -1,0 +1,27 @@
+.Tie {
+    background-color: #4f80ff;
+    color: white;
+}
+
+.Win {
+    background-color: #3bb83d;
+    color: white;
+}
+
+.Loose {
+    background-color: #ff5650;
+    color: white;
+
+}
+
+.subContent {
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.mainContent {
+    flex-flow: row;
+    text-align: center;
+
+}
